@@ -126,7 +126,7 @@ def back():
 #------------------[ LOGO-LAKNAT ]-----------------#
 def banner():
 	clear()
-	alvino_xy(f'''\t{N}                                              
+	alvino_xy(f'''\t{P}                                              
 
 ##    ## #### ########   #######  ##    ## 
 ##   ##   ##  ##     ## ##     ## ###   ## 
@@ -138,7 +138,16 @@ def banner():
 
  META FACEBOOK METHOD
 ╔════════════════════════════════════════╗
-║[•] DI RECODE OLEH    : R I D W A N                  ║
+║[•] DI RECODE OLEH    : K I R O N         ║
+╚════════════════════════════════════════╝
+
+╔════════════════════════════════════════╗
+║𒁍[✔] DEVELOPER :      AYUB HASAN KIRON  ║
+║𒁍[✔] FACEBOOK  :      AYUB HASAN KIRON  ║
+║𒁍[✔] WHATSAPP  :      01909765573       ║
+║𒁍[✔] GITHUB    :      4YU8-H454N        ║
+║𒁍[✔] TOOLS     :      OLD ID CLONING    ║
+║𒁍[✔] VERSION   :      1.0.0             ║
 ╚════════════════════════════════════════╝''')
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login():
