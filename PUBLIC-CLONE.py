@@ -144,7 +144,7 @@ def banner():
 \x1b[1;92m ║𒁍[✔] VERSION   :      1.0.0             ║
 \x1b[1;91m ╚════════════════════════════════════════╝
 
- META FACEBOOK METHOD''')
+ \x1b[1;94m META FACEBOOK METHOD''')
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login():
 	try:
